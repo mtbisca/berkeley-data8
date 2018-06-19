@@ -1,2 +1,2 @@
 # berkeley-data8
-This repository contains personal notes and code related to Berkeley's Data8 course. 
+This repository contains personal notes and code related to Berkeley's [Data8](http://data8.org/) course. All notes refer to the [video lectures](https://www.youtube.com/playlist?list=PLFeJ2hV8Fyt7mjvwrDQ2QNYEYdtKSNA0y) and the course [textbook](https://www.inferentialthinking.com/), and all exercises are extracted from the [Fall 2016](https://github.com/data-8/data8assets/tree/gh-pages/materials/fa16) offering.
